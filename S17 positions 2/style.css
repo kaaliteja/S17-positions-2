@@ -1,0 +1,149 @@
+
+
+
+#backGround{
+
+    border: 10px solid black;
+   
+
+}
+
+#hulk{
+   width: 40%;
+   height: 30%;
+   position: absolute;
+   bottom: 47%;
+   left: 35%;
+}
+
+#ironMan{
+    position: absolute; 
+    bottom: 12%;
+    left: 48%;
+    z-index: 20;
+    
+}
+
+#captainAmerica{
+    position: absolute; 
+    bottom: 12%;
+    left: 57%;
+    z-index: 19;
+
+
+}
+
+#thor{
+    position: absolute; 
+    bottom: 14%;
+    left: 37%;
+    height: 42%;
+    z-index: 17;
+
+}
+
+
+#hawkeye{
+    position: absolute; 
+    bottom: 13%;
+    left: 25%;
+    width: 20%;
+    height: 60%;
+    z-index: 16;
+
+
+}
+
+#natasha{
+    position: absolute; 
+    bottom: 15%;
+    left: 20%;
+    height: 42%;
+    z-index: 15;
+
+}
+
+
+#spiderMan{
+    position: absolute; 
+    bottom: 14%;
+    left: 58%;
+    height: 37%;
+    z-index: 18;
+
+}
+
+h1{
+    font-size: 7rem;
+    color: red;
+   text-shadow: 1px 1px 1px white; 
+   position: absolute; 
+   top:80%; 
+   left: 30%;
+   font-family: 'Emblema One';
+   width: 50%;
+   height: 50%;
+
+}
+
+h1::first-letter{
+    color:red;
+    font-size: 10rem;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    padding: 2px;
+   font-size: 18px;
+   border: 1px solid red;
+   background-color: red;
+   color: #fff;
+    position:absolute;
+    top: 93%;
+    left: 45%;
+   
+}
+
+h2{
+    font-size: 7rem;
+    color: red;
+   text-shadow: 5px 5px 5px white; 
+   position: absolute; 
+   top:72%; 
+   left: 28%;
+   font-size: 10rem;
+
+}
+
+    h2::first-letter{
+        color: rgb(208, 26, 26);
+        font-size: 10rem;
+    }
+
+/*  
+@media only screen (min-width: 1px) and (max-width: 576px){
+    
+}
+
+@media only screen (min-width: 576px) and (max-width: 768px){
+    
+}
+
+@media only screen (min-width: 768px) and (max-width: 992px){
+    
+}
+
+@media only screen (min-width: 992px) and (max-width: 1200px){
+    
+}
+
+@media only screen (min-width: 1200px) and (max-width: 1400px){
+    
+}
+
+@media only screen (min-width: 1400px) {
+
+}
+
+ */
